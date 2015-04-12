@@ -1,0 +1,23 @@
+﻿<Page
+    x:Class="myApplication.places"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:myApplication"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock HorizontalAlignment="Center" Margin="0,10,0,0"  TextWrapping="Wrap" Text="Select the Place" TextAlignment="Center" FontSize="40" VerticalAlignment="Top" Height="43" Width="400" />
+        <Button HorizontalAlignment="Left" Margin="143,149,0,0" Content="Charminar"  FontSize="35" VerticalAlignment="Top" Height="85" Width="400" Click="charminar_Click" />
+        <Button HorizontalAlignment="Left" Margin="831,149,0,0" Content="ZooPark" FontSize="35" VerticalAlignment="Top" Height="85" Width="400" Click="zoo_click" />
+        <Image HorizontalAlignment="Left" Height="76" Margin="280,0,0,0" VerticalAlignment="Top" Width="101" Source="Assets/backbutton1.png" Tapped="Image_Tapped"/>
+        <Button HorizontalAlignment="Left" Margin="143,393,0,0" Content="Brila Mandir" FontSize="35" VerticalAlignment="Top" Height="85" Width="400" Click="birla_Click" />
+        <Button HorizontalAlignment="Left" Margin="143,273,0,0" Content="FilmCity" FontSize="35" VerticalAlignment="Top" Height="85" Width="400" Click="filmcity_Click" />
+        <Button HorizontalAlignment="Left" Margin="143,522,0,0" Content="Mount Opera" FontSize="35" VerticalAlignment="Top" Height="85" Width="400" Click="mount_Click" />
+        <Button HorizontalAlignment="Left" Margin="831,393,0,0" Content="Hitec City" FontSize="35" VerticalAlignment="Top" Height="85" Width="400" Click="hitex_Click" />
+        <Button HorizontalAlignment="Left" Margin="831,273,0,0" Content="Hussain Sagar" FontSize="35" VerticalAlignment="Top" Height="85" Width="400" Click="Hussain_Click" />
+        <Button HorizontalAlignment="Left" Margin="831,522,0,0" Content="Necklace Road" FontSize="35" VerticalAlignment="Top" Height="85" Width="400" Click="nr_Click" />
+
+    </Grid>
+</Page>

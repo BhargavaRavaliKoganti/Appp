@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="myApplication.about"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:myApplication"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock HorizontalAlignment="Left" Margin="124,142,0,0" TextWrapping="Wrap" Text=" 
+The city of smiles, of lights, of a thousand faces, endearingly called the Pearl City, Hyderabad offers a variety of tourist attractions ranging from Heritage monuments, Lakes and Parks, Gardens and Resorts, Museums to delectable cuisine and a delightful shopping experience. To the traveller, Hyderabad offers a fascinating panorama of the past, with a richly mixed cultural and historical tradition spanning 400 colourful years. Some of the tourist attractions are included." VerticalAlignment="Top"  Height="527" FontSize="40" RenderTransformOrigin="0.5,0.5" Width="958"/>
+        <TextBlock HorizontalAlignment="Left" Margin="330,39,0,0" TextWrapping="Wrap" Text="About" FontSize="50" TextAlignment="Center" Foreground="Blue" VerticalAlignment="Top" Height="55" Width="373"/>
+        <Image HorizontalAlignment="Left" Height="84" Margin="174,26,0,0" VerticalAlignment="Top" Width="87" Source="Assets/backbutton1.png" Tapped="Image_Tapped"/>
+
+    </Grid>
+</Page>

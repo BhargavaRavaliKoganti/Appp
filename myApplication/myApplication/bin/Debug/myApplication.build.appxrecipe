@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NICKY</Machine>
+    <WindowsUser>NIcky Koganti</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>82e7e264-35a9-4cd0-abeb-7fde9b260732</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\myApplication.exe">
+      <PackagePath>myApplication.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\backbutton1.png">
+      <PackagePath>Assets\backbutton1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\birlamandir.png">
+      <PackagePath>Assets\birlamandir.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\filmcity.png">
+      <PackagePath>Assets\filmcity.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\hitec.png">
+      <PackagePath>Assets\hitec.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\homebutton1.png">
+      <PackagePath>Assets\homebutton1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\hussain.png">
+      <PackagePath>Assets\hussain.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\mount.png">
+      <PackagePath>Assets\mount.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\nr.png">
+      <PackagePath>Assets\nr.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\spsc1.png">
+      <PackagePath>Assets\spsc1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\zoo.png">
+      <PackagePath>Assets\zoo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\images.jpg">
+      <PackagePath>Assets\images.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\birla.xbf">
+      <PackagePath>birla.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\charminar.xbf">
+      <PackagePath>charminar.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\filmcity.xbf">
+      <PackagePath>filmcity.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\hitex.xbf">
+      <PackagePath>hitex.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\hussain.xbf">
+      <PackagePath>hussain.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\mount.xbf">
+      <PackagePath>mount.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\nr.xbf">
+      <PackagePath>nr.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\places.xbf">
+      <PackagePath>places.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\zoo.xbf">
+      <PackagePath>zoo.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\myApplication.xr.xml">
+      <PackagePath>myApplication.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

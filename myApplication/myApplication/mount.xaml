@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="myApplication.mount"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:myApplication"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Image HorizontalAlignment="Left" Height="295" Margin="522,108,0,0" VerticalAlignment="Top" Width="380" Source="Assets/mount.png"/>
+        <TextBlock HorizontalAlignment="Left" Margin="522,31,0,0" TextWrapping="Wrap" FontSize="40" TextAlignment="Center" Text="Mount Opera" VerticalAlignment="Top"  Height="50" Width="380"/>
+        <TextBlock HorizontalAlignment="Left" Margin="195,408,0,0" TextWrapping="Wrap" Text=" Located at a distance of approximately 38 kms from the main city, Mount Opera Theme park is one of the popular tourist places of Hyderabad offering loads of entertainment and fun to each and everyone. Situated on the Hyderabad-Vijayawada National Highway, the Mount Opera theme park is just 4 kms away from the popular Ramoji Film City." FontSize="30" VerticalAlignment="Top" Height="195" Width="1075" />
+        <Button Margin="234,655,0,28" FontSize="30" Content="Location" Height="85" Width="290" Click="Button_Click"></Button>
+        <Image HorizontalAlignment="Left" Height="73" Margin="195,53,0,0" VerticalAlignment="Top" Width="81" Source="Assets/backbutton1.png" Tapped="Image_Tapped1"/>
+        <Image HorizontalAlignment="Left" Height="74" Margin="1135,52,0,0" VerticalAlignment="Top" Width="79" Source="Assets/homebutton1.png" RenderTransformOrigin="0.494,0.493" Tapped="Image_Tapped"/>
+
+
+    </Grid>
+</Page>

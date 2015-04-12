@@ -1,0 +1,29 @@
+﻿<Page
+    x:Class="myApplication.maphitec"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:myApplication"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:Maps="using:Bing.Maps"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Maps:Map x:Name="Map" Margin="0,120,0,0" Credentials="AnKCerLkSGN6dA8Iqmn4Ku6kD0O-Ud8SxAmlGiVXyK29njdzqZpa7yBOJPyNYv3U"/>
+        <Maps:Map Margin="10,84,-10,-84">
+            <Maps:Map.Children>
+                <Maps:Pushpin x:Name="pushpin">
+                    <Maps:MapLayer.Position>
+                        <Maps:Location Latitude="17.4471055" Longitude="78.3795769999" />
+                    </Maps:MapLayer.Position>
+
+                </Maps:Pushpin>
+                <Image Height="110" Width="38"/>
+            </Maps:Map.Children>
+        </Maps:Map>
+        <Image x:ConnectionId='1' HorizontalAlignment="Left" Height="66" Margin="10,10,0,0" VerticalAlignment="Top" Width="79" Source="Assets/backbutton1.png"                      />
+
+
+    </Grid>
+</Page>
+

@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="myApplication.charminar"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:myApplication"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Tapped="Image_tapped2">
+        <Image HorizontalAlignment="Left" Height="150" Margin="588,158,0,0" VerticalAlignment="Top" Width="344" Source="Assets/images.jpg"/>
+        <TextBlock HorizontalAlignment="Left" Margin="552,58,0,0" TextWrapping="Wrap" FontSize="40" TextAlignment="Center" Text="Charminar" VerticalAlignment="Top"  Height="50" Width="380"/>
+        <TextBlock HorizontalAlignment="Left" Margin="237,363,0,0" TextWrapping="Wrap" Text="The Charminar, built in 1591 CE, is a monument and mosque located in Hyderabad, Telangana, India. The landmark has become a global icon of Hyderabad, listed among the most recognized structures of India. The Charminar is situated on the east bank of Musi river. To the west lies the Laad Bazaar, and to the southwest lies the richly ornamented granite Makkah Masjid" FontSize="30" VerticalAlignment="Top" Height="195" Width="1075" />
+        <Button Margin="234,655,0,28" FontSize="30" Content="Location" Height="85" Width="290" Click="Button_Click"></Button>
+        <Image HorizontalAlignment="Left" Height="73" Margin="195,53,0,0" VerticalAlignment="Top" Width="81" Source="Assets/backbutton1.png" Tapped="Image_Tapped1"/>
+        <Image HorizontalAlignment="Left" Height="74" Margin="1135,52,0,0" VerticalAlignment="Top" Width="79" Source="Assets/homebutton1.png" RenderTransformOrigin="0.494,0.493"/>
+
+    </Grid>
+</Page>

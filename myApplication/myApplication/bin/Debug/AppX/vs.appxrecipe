@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NICKY</Machine>
+    <WindowsUser>NIcky Koganti</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>82e7e264-35a9-4cd0-abeb-7fde9b260732</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>EAAEB60682F52E551F098AAC78F2186D3DC4743036AB35FBE0B9A3B01623641E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>82e7e264-35a9-4cd0-abeb-7fde9b260732_1.0.0.0_neutral__bvcqrwzjwvj9t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>82e7e264-35a9-4cd0-abeb-7fde9b260732_bvcqrwzjwvj9t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>82e7e264-35a9-4cd0-abeb-7fde9b260732</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=NIcky Koganti</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-28T18:00:52.029</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\myApplication.exe">
+      <PackagePath>myApplication.exe</PackagePath>
+      <Modified>2015-03-01T04:10:17.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\backbutton1.png">
+      <PackagePath>Assets\backbutton1.png</PackagePath>
+      <Modified>2015-02-28T16:22:47.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\birlamandir.png">
+      <PackagePath>Assets\birlamandir.png</PackagePath>
+      <Modified>2015-02-28T17:37:16.509</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\filmcity.png">
+      <PackagePath>Assets\filmcity.png</PackagePath>
+      <Modified>2015-02-28T17:26:48.314</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\hitec.png">
+      <PackagePath>Assets\hitec.png</PackagePath>
+      <Modified>2015-02-28T17:47:12.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\homebutton1.png">
+      <PackagePath>Assets\homebutton1.png</PackagePath>
+      <Modified>2015-02-28T16:39:03.262</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\hussain.png">
+      <PackagePath>Assets\hussain.png</PackagePath>
+      <Modified>2015-02-28T17:31:52.304</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\mount.png">
+      <PackagePath>Assets\mount.png</PackagePath>
+      <Modified>2015-02-28T17:54:05.238</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\nr.png">
+      <PackagePath>Assets\nr.png</PackagePath>
+      <Modified>2015-02-28T17:57:52.027</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <Modified>2015-02-28T16:06:39.729</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <Modified>2015-02-28T15:47:10.155</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\spsc1.png">
+      <PackagePath>Assets\spsc1.png</PackagePath>
+      <Modified>2015-02-28T16:09:04.147</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\zoo.png">
+      <PackagePath>Assets\zoo.png</PackagePath>
+      <Modified>2015-02-28T17:19:07.772</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\Assets\images.jpg">
+      <PackagePath>Assets\images.jpg</PackagePath>
+      <Modified>2015-02-28T16:27:52.881</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-02-28T12:25:56.205</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\birla.xbf">
+      <PackagePath>birla.xbf</PackagePath>
+      <Modified>2015-02-28T18:00:51.416</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\charminar.xbf">
+      <PackagePath>charminar.xbf</PackagePath>
+      <Modified>2015-02-28T18:00:51.416</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\filmcity.xbf">
+      <PackagePath>filmcity.xbf</PackagePath>
+      <Modified>2015-02-28T18:00:51.417</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\hitex.xbf">
+      <PackagePath>hitex.xbf</PackagePath>
+      <Modified>2015-02-28T18:00:51.417</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\hussain.xbf">
+      <PackagePath>hussain.xbf</PackagePath>
+      <Modified>2015-03-01T04:10:16.875</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-02-28T18:00:51.418</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\mount.xbf">
+      <PackagePath>mount.xbf</PackagePath>
+      <Modified>2015-02-28T18:00:51.419</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\nr.xbf">
+      <PackagePath>nr.xbf</PackagePath>
+      <Modified>2015-02-28T18:00:51.419</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\places.xbf">
+      <PackagePath>places.xbf</PackagePath>
+      <Modified>2015-03-01T04:10:16.875</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\zoo.xbf">
+      <PackagePath>zoo.xbf</PackagePath>
+      <Modified>2015-03-01T04:10:16.875</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\myApplication.xr.xml">
+      <PackagePath>myApplication.xr.xml</PackagePath>
+      <Modified>2015-02-28T18:00:51.348</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIcky Koganti\documents\visual studio 2013\Projects\myApplication\myApplication\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-02-28T18:00:51.821</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
